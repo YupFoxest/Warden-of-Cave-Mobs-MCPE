@@ -1,0 +1,136 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": false,
+      "maps": false,
+      "texture": true,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+        "name": "BLPE Shaders",
+        "role": "BLPE Shaders turns Minecraft into something much more beautiful to experience. The colors for the grass, leaves and other terrain blocks look much more vibrant and the design for the water also looks more shiny and realistic. However, since this is the first release there are some flaws. For example, the water is completely still and doesn�t move and also the clouds during the day looks just as they do originally.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/15/tigapuluh_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/15/blpe-shaders.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/15/limabelas.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/15/duapuluhsembilan_desc.png"
+    },
+    {
+        "name": "Beautiful Swamp Water! (Shader)",
+        "role": "Want to build a great build in a swamp but sick of the ugly water? Then look no further than this helpful resource pack that will make swamps look like normal rivers. It works really well with my builds and if you want to do the same for yours than just download this pack!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/16/tigapuluhsatu_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/16/Swampfixer[2].mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/16/tigapuluhdua_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/16/enambelas.png"
+    },
+    {
+        "name": "Zebra Shaders PE",
+        "role": "Zebra Shaders is a realistic shaders pack that is made to be able to run on mobile low devices, with beautiful coloring and comfortable in sight. zebra shaders are very suitable for you to use when playing survival or creative.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/17/tujuhbelas.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/17/Zebra Shaders v1.8.1 [Bug Fix].mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/17/tigapuluhtiga_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/17/tigapuluhempat_desc.png"
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/HLZreTzt5yGklL75pQGpAz6BUznzmDLx6uAvphe9-lI0SeDxFwzADVosv04c4kr7NqerKvPNZ-XO93mEGY_TEyg",
+    "view_skin": "https://lh3.googleusercontent.com/WNRmmbZeNXg56EPSM0v2yEtBROelXIOUZAz_ydZ-0N4yZkVygn3x4AyXmGF_z0XI99yS8vC2iHAtwF61Q_qimQ"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/7YcPfAHR5gQDrKB1ARJfuTP14gEUKasuTBivVnPwd2xsrA1nJZecXZ1dJWl5VJ_fCXQWFIJ7Xxcci3JU4Ka_SOQ",
+    "view_skin": "https://lh3.googleusercontent.com/3R9Xa6W_AG6MhP1kkWSYinBVBjspw93tNegMiWoPy1e_PX6B4dUGErGWvfqDSFlubnEGaj1UDDfyjDlr-egE"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/Mfgx0TXES3uC4dIrcY7H6QDcJIkkAkx6G5FlupYZQvlb_rGsZPWXF2B8uCentVOLiOe0RBvl0a88q9Qj_StMmUaFFZXKRGQLyQw",
+    "view_skin": "https://lh3.googleusercontent.com/t7QM33Y1Tuh7XI1dbA8lcZKZD77whiZieIA6PmerAXUaqew2nxPBkOVb821u9fSKkaVUWWPH2qt11X4bNwosPWI16edwsHPr76Y"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/9Rl6ijeZQKa0ljcpI9Dp0yBZh4pvKfFj7XAxamXRtRfdWGoJ4cd3OS-PJiGg1wLBS6xuavkDoDjL3GiNNJUC72UpLVzI8QZqWzAm",
+    "view_skin": "https://lh3.googleusercontent.com/gfP52JHYM-IreV4rDBV20wFlh1yYDfWJObKeU1zLauj0n1c2A_HHOpy8LTUzwSkOfDzIgMyWxJ06tl6usmDxV5bDDJJJCHq49A"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/oD6k9-DH3rdGNKaYp8K0nGhN2Y6ho4pWZeGDtouOqihqjHTCqSL8srRr2Z3YEYCkPfwOukegX_OSaN5lPKB1Mb59fJuGPSiWCCG_",
+    "view_skin": "https://lh3.googleusercontent.com/GvaWXKR2xgZa2MyEbnLMOjI_i_QWh-PT7Z6OJxa7gIUgIFCUDZAr3LbAp6dv2uPPe04xQO-Tsry0sLEYcrfBKM6iuOGL4f5K-_0"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/47G-sG8MIskE8H3BgZL8jalfdx8HTmxDKurqJJs4tqz85TSnJFu8YwZJO27lPyBUngMgUeUna5daZ9ShsUVFH8H39N_Y3AgpL_z6",
+    "view_skin": "https://lh3.googleusercontent.com/tQ7QQAxFIswn8C2tj75hWOqbz_X1DkuZdCebsl0OcwhMeYQ05nuLBgv9DBqBBjZ_NKpeBdsqYWvkAt-6ceBY__itZmINrUGvcbQ"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
